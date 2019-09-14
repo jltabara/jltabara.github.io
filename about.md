@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Alguna información sobre mi.
-
-### More Information
 
 Profesor de Matemáticas de Secundaria.
 
-### Contact me
-
+### Contacto
 [jltabara@gmail.com](mailto:jltabara@gmail.com)
