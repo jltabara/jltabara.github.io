@@ -8,7 +8,7 @@ Alguna información sobre mi.
 
 ### More Information
 
-Profesor de enseñanza secundaria
+Profesor de Matemáticas de Secundaria.
 
 ### Contact me
 
