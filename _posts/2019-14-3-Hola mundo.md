@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title:Primer post
 ---
 
 Este es el primer post. Un poco de Python
