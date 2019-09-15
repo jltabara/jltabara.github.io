@@ -17,21 +17,10 @@ avatar: /images/jekyll-logo.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
   email: jltabara@gmail.com
-  facebook:
-  flickr:
   github: jltabara
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: 
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: /jltabara
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
-
+ 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus:
@@ -84,7 +73,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-#theme: 
-
-theme: jekyll-theme-merlot
