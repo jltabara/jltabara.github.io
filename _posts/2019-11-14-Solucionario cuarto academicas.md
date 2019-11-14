@@ -7,6 +7,6 @@ En el siguiente enlace se puede descargar el solucionario del libro de cuarto de
 
 
 
-[Formato Pdf](../archivos/solucionario 4º académicas.pdf)
+[Formato Pdf](https://drive.google.com/open?id=10Ny2gGQP5GNj3mTl_Cxhddvt1cEauIP2)
 
 
