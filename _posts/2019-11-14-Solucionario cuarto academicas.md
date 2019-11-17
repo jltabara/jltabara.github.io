@@ -11,6 +11,6 @@ En el siguiente enlace se puede descargar el solucionario del libro de cuarto de
 
 
 
-[Formato Pdf](https://drive.google.com/open?id=10Ny2gGQP5GNj3mTl_Cxhddvt1cEauIP2)
+[Formato Pdf](https://drive.google.com/file/d/10Ny2gGQP5GNj3mTl_Cxhddvt1cEauIP2/view)
 
 
