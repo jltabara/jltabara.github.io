@@ -38,3 +38,5 @@ Página 136 del libro:
 Para poder repasar os dejo una lista de reproducción. De momento solamente hemos visto los contenidos de los 5 primeros videos. Dentro de poco tenemos que empezar con los siguientes, que son referentes a las distintas ecuaciones de las rectas.
 
 [Lista de reproducción](https://www.youtube.com/playlist?list=PLpbLLqs33gIkold1QeRtksdHhyF8yMZJX)
+
+Dentro de unos días os colgaré unas fotos con el solucionario por si todavía alguno no lo tiene (lo deberías conseguir. Bastantes alumnos lo tienen en pdf).
