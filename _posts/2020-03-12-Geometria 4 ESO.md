@@ -39,4 +39,4 @@ Para poder repasar os dejo una lista de reproducción. De momento solamente hemo
 
 [Lista de reproducción](https://www.youtube.com/playlist?list=PLpbLLqs33gIkold1QeRtksdHhyF8yMZJX)
 
-Dentro de unos días os colgaré unas fotos con el solucionario por si todavía alguno no lo tiene (lo deberías conseguir. Bastantes alumnos lo tienen en pdf).
+Dentro de unos días os colgaré unas fotos con el solucionario por si todavía alguno no lo tiene (lo deberías conseguir, bastantes alumnos lo tienen en pdf).
