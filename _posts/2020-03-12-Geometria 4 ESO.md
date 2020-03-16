@@ -5,7 +5,7 @@ title: Actividades para 4º ESO (1)
 
 Tenéis que realizar los siguientes ejercicios de Geometría. De momento todos los ejercicios son de conceptos vistos en clase.
 
-Página 136 del libro:
+Página 148 del libro:
 
 39
 
