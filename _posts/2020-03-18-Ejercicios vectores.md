@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Actividades para 4º ESO (1)
+title: Actividades para 4º ESO (18 de marzo de 2020)
 ---
 
 Tenéis que realizar los siguientes ejercicios de Geometría. De momento todos los ejercicios son de conceptos vistos en clase.
@@ -39,4 +39,8 @@ Para poder repasar os dejo una lista de reproducción. De momento solamente hemo
 
 [Lista de reproducción](https://www.youtube.com/playlist?list=PLpbLLqs33gIkold1QeRtksdHhyF8yMZJX)
 
-Dentro de unos días os colgaré unas fotos con el solucionario por si todavía alguno no lo tiene (lo deberías conseguir, bastantes alumnos lo tienen en pdf).
+Ya os informaré del porcentaje de evaluación referente a los contenidos impartidos online. En principio puede depender de la cantidad de días que tengamos que seguir con este tipo de educación.
+
+El email para preguntas es:
+
+jltabara@gmail.com
