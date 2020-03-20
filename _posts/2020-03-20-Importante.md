@@ -11,7 +11,7 @@ En la tercera evaluación de Matemáticas en los cursos de 4º de ESO y Primero 
 
 - El 10% serán una especie de exámenes online. Os explico: El jueves se colgará en este blog un archivo con 4 ejercicios. Se deben realizar en una única cara y a ser posible en un folio en blanco. Dicho folio se debe fotografiar o escanear de manera que resulte legible. Se debe enviar al correo electrónico
 
-jltabara@gmail.com
+[](jltabara@gmail.com)
 
 antes de las 12 horas del mediodía del viernes. Es necesario que figure vuestro nombre en la "hoja de examen".
 
@@ -19,7 +19,7 @@ antes de las 12 horas del mediodía del viernes. Es necesario que figure vuestro
 
 - El 5% restante será la participación. Para ello se ha creado un foro:
 
-http://matevaldebernardo.forumotion.eu/
+[](http://matevaldebernardo.forumotion.eu/)
 
 donde el alumno se debe registrar. Este es el lugar indicado para proponer dudas. Por supuesto se valorará que los alumnos respondan las dudas de sus iguales.
 
